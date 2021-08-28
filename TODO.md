@@ -1,3 +1,3 @@
-[ ] Refactor user -> connect to the database
-[ ] Authentication 
-[ ] Refactor relation user -> books
+- [ ] Refactor user -> connect to the database
+- [ ] Authentication 
+- [ ] Refactor relation user -> books
